@@ -19,10 +19,4 @@ public class HelloWorld extends OpMode {
 
     }
 
-    // single line comment
-
-    /*
-
-
-     */
 }
